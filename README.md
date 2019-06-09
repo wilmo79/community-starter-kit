@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* Learn how to use GitHub
+* Step-by-step walkthrough of basic *critical* functionality
+* Introduces Probots
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Teaches about README Files
+* How to review and submit changes
+* Where to find important information
 
 ## Getting started
 
