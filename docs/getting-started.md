@@ -35,4 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+What an amazing submission! :bowtie: <br>
+The peer code review is one of the most powerful tools we have  :nerd_face: <br>
+**Astonishing** moves! <br>
+
